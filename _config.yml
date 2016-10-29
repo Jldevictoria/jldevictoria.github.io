@@ -1,0 +1,21 @@
+# Site Settings
+url: "http://jldevictoria.github.io"
+baseurl: "/"
+title: Joseph DeVictoria
+email: jldevictoria@gmail.com
+description: My second attempt at making a blog I actually enjoy writing...
+
+# Google Analytics
+google_analytics: UA-65518086-4
+
+# Disqus
+disqus:
+    shortname: jldevictoria
+
+# Social Media Contact
+twitter_username: jldevictoria
+github_username:  jldevictoria
+
+# Build settings
+markdown: kramdown
+theme: minima
