@@ -19,3 +19,6 @@ github_username:  jldevictoria
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Gems
+gems: ['jekyll-github-metadata']
