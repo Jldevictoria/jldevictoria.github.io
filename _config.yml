@@ -1,6 +1,6 @@
 # Site Settings
 url: "http://jldevictoria.github.io"
-baseurl: "/"
+baseurl: ""
 title: Joseph DeVictoria
 email: jldevictoria@gmail.com
 description: My second attempt at making a blog I actually enjoy writing...
@@ -19,6 +19,3 @@ github_username:  jldevictoria
 # Build settings
 markdown: kramdown
 theme: minima
-
-# Gems
-gems: ['jekyll-github-metadata']
