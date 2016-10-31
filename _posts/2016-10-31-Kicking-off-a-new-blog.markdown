@@ -2,7 +2,7 @@
 layout: post
 title:  "Kicking off a new blog!"
 date:   2016-10-30 15:06:30 -0700
-categories: accouncements
+categories: announcements
 ---
 
 Back in 2014 nearing the end of my college career, I decided to try my hand at blogging.
