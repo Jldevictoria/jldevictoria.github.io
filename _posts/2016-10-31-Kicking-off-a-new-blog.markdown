@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Kicking off a new blog!"
 date:   2016-10-30 15:06:30 -0700
 categories: accouncements
@@ -12,4 +13,4 @@ It was fun, but I started delving into too many controversial issues and got tir
 
 Honestly I wanted to name this blog something like "Joseph DeVictoria's Blog" or some variation of that... but then that made the page have my name on it too many times.. Anyways I decided that I will stick with the name "Documenting Mistakes" until I think of something more fitting.  I want this blog to be somewhere where I can post abou the technical challenges I have with all of the projects that I'm working on.
 
-Anyways hopefully I can generate some good feedback at some point, and using this blog regularly might motivate me to actually finish a project every now and then.
+Hopefully I can generate some good feedback at some point, and using this blog regularly might motivate me to actually finish a project every now and then.
