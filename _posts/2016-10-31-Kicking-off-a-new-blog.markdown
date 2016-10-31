@@ -15,4 +15,4 @@ Honestly I wanted to name this blog something like "Joseph DeVictoria's Blog" or
 
 I find that I generally learn when I make a mistake and have to go fix it.  Because of that, I decided that I will stick with the name "Documenting Mistakes" until I think of something more fitting.  I want this blog to be somewhere where I can post abou the technical challenges I have with all of the projects that I'm working on.
 
-Hopefully using this blog regularly might motivate me to actually finish a project every now and then.  It might even generate some good feedback and support for things I'm working on.
+Hopefully using this blog regularly might motivate me to actually finish a project every now and then.
