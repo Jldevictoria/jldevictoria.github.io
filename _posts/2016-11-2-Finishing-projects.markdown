@@ -50,6 +50,7 @@ Heres a rough overview of each project and its status today:
 | The Enginerd | My first stab at making an internet presence.  It included a blog and a YouTube Channel. | It was kinda a terrible idea...  The name makes me a little sick now, because it sounds too tryhard.  I recently deleted the blog.  The YouTube Channel is still around, but I am planning on changing the name eventually. |
 | K&R C-Bible | An effort to refresh my C skills by reading through Kernighan and Ritchie's The C Programming Language and completing all of the exercises. | I am still planning on completing this project, but so far I have only gotten through chapter one, because of all of my other projects. |
 | This Blog | I plan on this blog being much truer to my actual life.  I want to document my projects and troubleshooting as I try to complete them. | This is just starting now, and I'm tentatively using the name "Documenting Mistakes".  I plan to post regularly, but we will see how it goes! |
+{:.mbtablestyle}
 
 As you can see, I keep putting in more projects without finishing the ones in the pipe.  Actually my inspiration for writing this post comes from a segment I recently heard on the Stack Overflow Podcast where [Tom Lehman describes](https://soundcloud.com/stack-exchange/stack-overflow-podcast-93-a-very-spolsky-halloween-special) how he had to "take one turkey out of the oven before he could bake the next one" referring to his transition into creating [genius.com](https://genius.com).
 
