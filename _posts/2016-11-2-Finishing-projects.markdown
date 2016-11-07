@@ -36,7 +36,7 @@ Due to this desire, I have taken on a lot of different personal projects.  I hav
 
 This is a rough sketch of how my personal projects have been going for the last few years:
 
-![Project Struggles](http://i.imgur.com/vvdk9Sj.png)
+![Project Struggles](http://i.imgur.com/x6yshwy.png)
 
 Heres a rough overview of each project and its status today:
 
