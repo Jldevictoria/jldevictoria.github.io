@@ -62,3 +62,5 @@ If you master one instance of those two categories, it really sets you up for su
 To close it out, I think getting a formal education in Computer Science or Engineering is a huge benefit when approaching the Software and Technology industry.
 I appreciate that I learned how to program in college, but I also appreciate that they taught me in detail how computers work as well.
 Personally I am by no stretch a great programmer, but it is definitely fun to try new things, and see what benefits can come from languages I havent tried yet.
+
+### What is your favorite language, and why?
