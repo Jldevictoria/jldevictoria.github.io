@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Joseph DeVictoria
+###  BYU Alumnus, 2015 - B.S. Computer Engineering (C.S. Minor)
 
-## BYU Alumnus, 2015 - B.S. Computer Engineering (C.S. Minor)
-
-###Product Development Engineer at Intel in Folsom, California.
+### Product Development Engineer at Intel in Folsom, California.
 
 I started the blog because I enjoy writing and I wanted to give blogging another shot!
