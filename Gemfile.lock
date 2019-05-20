@@ -243,8 +243,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
-  minima
 
 RUBY VERSION
    ruby 2.5.1p57
