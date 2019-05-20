@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Computer Engineer (somewhat) recently graduated from BYU.
-
-I work as a Product Engineer at Micron Technologies in Folsom, California.
+BYU Alumnus, 2015 - B.S. Computer Engineering (C.S. Minor)
+Product Development Engineer at Intel in Folsom, California.
 
 I started the blog because I enjoy writing and I wanted to give blogging another shot!
