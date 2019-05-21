@@ -6,7 +6,7 @@ tags: [game-development, rubies-of-eventide, world-of-warcraft, minecraft]
 ---
 # What Made Halberd a Good Server
 
-![Rubies of Eventide](../images/RubiesLogo.jpg)
+![Rubies of Eventide](https://upload.wikimedia.org/wikipedia/en/d/de/RubiesLogo.jpg)
 
 (This is going to be part one of a series of essays that I wanted to write about Rubies of Eventide.)
 
